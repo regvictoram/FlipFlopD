@@ -1,2 +1,4 @@
-# FlipFlopD
-For a project in Architecture II. Uses VHDL for a D-Type Flip-Flop.
+# Laboratory, Computer Architecture 2
+For projects in Architecture II. 
+At the moment, we have:
+- VHDL for a D-Type Flip-Flop.
