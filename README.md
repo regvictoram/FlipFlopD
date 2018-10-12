@@ -3,5 +3,5 @@ For projects in Architecture II.
 At the moment, we have:
 - VHDL for a D-Type Flip-Flop.
 - VHDL for a D-Type Flip-Flop with synchronous Set-Resets.
-- VHDL for Flip-Flop with Daylight sensor (Lab 3, Homework).
+- VHDL for Flip-Flop with Daylight sensor (Lab 3, Homework). Includes Log (Bitácora).
 - VHDL for FSM 2-bit Counter, done in the lab.
